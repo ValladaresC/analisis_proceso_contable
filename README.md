@@ -1,6 +1,17 @@
-# analisis_proceso_contable
+# Evaluation of the process for submitting official hydrocarbon reports
 
-## Este proyecto busca identificar, analizar y comprender las causas detrás de los retrasos en la emisión de informes oficiales de hidrocarburos para ser mostrados a la dirección ejecutiva de la empresa y, potencialmente, mejorar el proceso.
+We received a lot of complaints about the constant delays in submitting official reports. This situation was affecting timely decision-making by the Board of Directors.
+
+My goal was to evaluate the process, identify the root causes, quantify their impact and propose solutions to optimize the operational efficiency.
+
+I designed a simple database in Microsoft Excel to record the events, dates, and times related to the process. Additionally, I used Power Query for data wrangling, cleaning, transformation and automation. Finally, using pivot table, I created the visualizations to explain the results. 
+
+The analysis revealed that 84% of reports were sent late. Furthermore, five main activities in the process were linked to these delays. These findings gave the Board of Directors the root causes necessary to focus on improvements. After just one week, the improvements were implemented, and punctuality reached 95%.
+
+
+# Evaluación del proceso de emisión de reportes oficiales de hidrocarburos
+
+### Este proyecto busca identificar, analizar y comprender las causas detrás de los retrasos en la emisión de informes oficiales de hidrocarburos para ser mostrados a la dirección ejecutiva de la empresa y, potencialmente, mejorar el proceso.
 
 ![Proceso Contable](https://github.com/user-attachments/assets/0c591548-708d-4ef5-b8a2-0f6941c6a66b)
 
